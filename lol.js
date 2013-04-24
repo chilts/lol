@@ -8,6 +8,7 @@ var exclamations = [
     'YA RLY!',
     '<3',
     'wut!',
+    'hipster',
 ];
 var length = exclamations.length;
 

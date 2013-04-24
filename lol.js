@@ -2,6 +2,8 @@ var exclamations = [
     'lol',
     'rofl',
     'wtf',
+    'OMG',
+    'OMGWTFBBQ',
 ];
 var length = exclamations.length;
 

@@ -10,6 +10,8 @@
                            
 ```
 
+Pull requests are accepted if they don't break any tests. LOL! 8-)
+
 ```
 var lol = require('lol');
 console.log(lol());

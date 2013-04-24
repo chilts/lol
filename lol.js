@@ -20,7 +20,8 @@ var exclamations = [
     'fuzzball',
     'haterz',
     ':)',
-    'Obi-Wan'
+    'Obi-Wan',
+    'SRSLY',
 ];
 var length = exclamations.length;
 

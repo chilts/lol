@@ -11,6 +11,16 @@ var exclamations = [
     '<3',
     'wut!',
     'hipster',
+    'LULz',
+    'lmfao',
+    'stfu',
+    'rtfm',
+    'harden-up',
+    '.lol',
+    'fuzzball',
+    'haterz',
+    ':)',
+    'Obi-Wan'
 ];
 var length = exclamations.length;
 

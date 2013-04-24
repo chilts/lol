@@ -4,6 +4,10 @@ var exclamations = [
     'wtf',
     'OMG',
     'OMGWTFBBQ',
+    'O RLY?',
+    'YA RLY!',
+    '<3',
+    'wut!',
 ];
 var length = exclamations.length;
 

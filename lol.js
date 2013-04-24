@@ -22,6 +22,7 @@ var exclamations = [
     ':)',
     'Obi-Wan',
     'SRSLY',
+    'My bad',
 ];
 var length = exclamations.length;
 

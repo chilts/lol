@@ -9,3 +9,10 @@
 (_______/(_______)(_______/
                            
 ```
+
+```
+var lol = require('lol');
+console.log(lol());
+```
+
+(Ends)

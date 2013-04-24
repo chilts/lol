@@ -38,4 +38,8 @@ var app = express();
 app.use(lol.middleware);
 ```
 
+## LICENSE ##
+
+MIT.
+
 (Ends)

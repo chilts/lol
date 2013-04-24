@@ -1,7 +1,7 @@
 {
     "name" : "lol",
     "description" : "Just lol, rofl, wtf, etc !!11!!1!",
-    "version" : "1.0.1-lol",
+    "version" : "1.0.101-lol",
 
     "main" : "lol.js",
     "engines" : {

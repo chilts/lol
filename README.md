@@ -12,6 +12,8 @@
 
 Pull requests are accepted if they don't break any tests. LOL! 8-)
 
+## Make me LOL ##
+
 ```
 var lol = require('lol');
 console.log(lol());

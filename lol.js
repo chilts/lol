@@ -12,7 +12,14 @@ var exclamations = [
 ];
 var length = exclamations.length;
 
-module.exports = function lol() {
+function lol() {
     var i = parseInt(Math.random()*length, 10);
     return exclamations[i];
 };
+
+lol.middleware = function(req, res, next) {
+    res.set('X-LOL', lol());
+    next();
+};
+
+module.exports = lol;

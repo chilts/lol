@@ -19,6 +19,15 @@ var lol = require('lol');
 console.log(lol());
 ```
 
+## TRANSFORMATIONALISATIONAL STREAMS IN YOUR FACE :-p ##
+
+```
+$ node -e "process.stdin.pipe(require('lol').transform).pipe(process.stdout)"
+Hello, World!
+wtf, lol!
+^C
+```
+
 ## MIDDLEWARE YO! ##
 
 Adds an ```X-LOL``` header! <3
